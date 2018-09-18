@@ -1,1 +1,1 @@
-# george-clinton
+# George Clinton Parliament Funkadelic
