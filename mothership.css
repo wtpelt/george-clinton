@@ -7880,12 +7880,14 @@ p.wp-caption-text {
 
 .long-text-section{
     margin-right: 15vmax;
-    margin-left: 15vmax;
+    margin-left: 15vmax
 }
+
 .long-text-section p{
-    color: #000!important;
-    font-size: 1.5em;
+    font-size: 1.5em
+    color: #000!important
 }
+
 .long-text-section a{
-    color: #9999ff!important;
+    color: #9999ff!important
 }
